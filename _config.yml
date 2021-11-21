@@ -85,10 +85,10 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "New York City Metropolitan Area"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&tzom=300&user=Uy694Y0AAAAJ"
   email            : "zq38@njit.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Zhenbo-Qiao-2"
+  researchgate     : "https://www.researchgate.net/profile/Zhenbo-Qiao-2"
   uri              :
   bitbucket        :
   codepen          :
