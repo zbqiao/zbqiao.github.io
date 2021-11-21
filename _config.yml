@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Zhenbo Qiao"
   avatar           : "zqiao.jpg"
-  bio              : “PhD candidate”
+  bio              : PhD candidate \n
+                     NJIT
   location         : "New York City Metropolitan Area"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
