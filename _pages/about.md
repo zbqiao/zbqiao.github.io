@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Welcome to Zhenbo Qiao's personal websites!"
+title: "Short Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Zhenbo Qiao is a Ph.D in the Department of Electrical and Computer Engineering at New Jersey Institute of Technology. Prior to that, he received his M.S in Electrical Engineering from NJIT in 2017 and B.S. from Northwestern Polytechnical University, China, in 2013, respectively.
+I am a Ph.D in Computer Engineering at New Jersey Institute of Technology. I am working with professor Qing Liu from Helen and John C. Hartmann Department of Electrical and Computer Engineering. My research interests include High Performance Computing, Data Analytics, Data Compression and Data storage. I received my Master's degree in Electrical Engineering from NJIT in 2017 and Bachelor's degree from Northwestern Polytechnical University, China, in 2013, respectively.
 
