@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Zhenbo Qiao"
 title_separator          : "-"
 name                     : &name "Zhenbo Qiao"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhenbo Qiao"
   avatar           : "zqiao.jpg"
-  bio              : "PhD in Computer Engineering from New Jersey Institute of Technology"
+  bio              : "PhD in Computer Engineering"
   location         : "New York City Metropolitan Area"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
