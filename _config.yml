@@ -82,12 +82,7 @@ analytics:
 author:
   name             : "Zhenbo Qiao"
   avatar           : "zqiao.jpg"
-  bio              : “PhD candidate\n\ 
-                     Helen and John C. Hartmann\n\
-                     Department of Electrical and Computer Engineering\n\
-                     New Jersey Institute of Technology\n\
-                     University Heights,\n\
-                     Newark, NJ 07102\n\”
+  bio              : “PhD candidate”
   location         : "New York City Metropolitan Area"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
