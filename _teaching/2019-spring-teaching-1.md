@@ -1,5 +1,5 @@
 ---
-title: "ECE 429: Computer Communications Laboratory![image](https://user-images.githubusercontent.com/29441174/142755347-621aa0ae-24a0-4c04-8595-dede91c2b982.png)
+title: "ECE 429: Computer Communications Laboratory)
 "
 collection: teaching
 type: "Undergraduate course"
